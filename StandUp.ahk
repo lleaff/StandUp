@@ -1,7 +1,7 @@
 Loop
 {
 	Random, rand, 0, 6 
-	optionsStrBegin = TC=White TF=Segoe Ui TS=16 TW=500 BR=0 BT=0 IW=150 IH=150 SI=150 SC=10 ST=100 Image=C:\Portable Program Files\Scripts\Autohotkey scripts\StandUp\image
+	optionsStrBegin = TC=White TF=Segoe Ui TS=16 TW=500 BR=0 BT=0 IW=150 IH=150 SI=150 SC=10 ST=50 Image=C:\Portable Program Files\Scripts\Autohotkey scripts\StandUp\image
 
 	if (rand <= 3) { 
 		 bgc = F96036
@@ -25,11 +25,6 @@ Loop
 	Sleep, 900 000
 }
 	
-;Notify("`n     Stand up!     `n",,-15,"TC=White TF=Segoe Ui TS=16 TW=500 GC=F96036 BC=F96036 BR=0 BT=0")
-
-;Notify("",,-15,"TC=White TF=Segoe Ui TS=16 TW=500 GC=F96036 BC=F96036 BR=0 BT=0 IW=150 IH=150 Image=C:\Portable Program Files\Scripts\Autohotkey scripts\StandUp\image1.png")
-
-
 
 
 ;——————————————————————————————————————————————————————
