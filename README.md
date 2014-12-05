@@ -1,4 +1,1 @@
-StandUp
-=======
-
-Quarter-hourly reminder to stand up and stretch
+Just a little AHK script hacked in 5 minutes, I will replace it with a proper configurable C program later.
